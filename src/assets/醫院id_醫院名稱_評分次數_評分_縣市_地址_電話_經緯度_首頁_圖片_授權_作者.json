@@ -1,0 +1,1566 @@
+[
+    {
+        "hosp_id": 41,
+        "hosp_name": "振興醫療財團法人振興醫院",
+        "review_times": 2,
+        "score": 100,
+        "city": "臺北市",
+        "address": "臺北市北投區振興街４５號",
+        "telephone": "02 28264400",
+        "location": [
+            121.52240046130767,
+            25.11754255138704
+        ],
+        "web": "https://www.chgh.org.tw/Index.aspx",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Health_Building%2C_Cheng_Hsin_General_Hospital_20080724a.jpg/330px-Health_Building%2C_Cheng_Hsin_General_Hospital_20080724a.jpg",
+        "photo_authorization": "CC BY 3.0",
+        "photo_author": "Tianmu peter"
+    },
+    {
+        "hosp_id": 73,
+        "hosp_name": "長庚醫療財團法人基隆長庚紀念醫院",
+        "review_times": 2,
+        "score": 100,
+        "city": "基隆市",
+        "address": "基隆市安樂區麥金路２２２號",
+        "telephone": "02 24313131",
+        "location": [
+            121.722367526036,
+            25.120882530084828
+        ],
+        "web": "https://www.cgmh.org.tw/tw/Systems/AreaInfo/1",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Keelung_Chang_Gung_Memorial_Hospital_20141220.jpg/330px-Keelung_Chang_Gung_Memorial_Hospital_20141220.jpg",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "Solomon203"
+    },
+    {
+        "hosp_id": 384,
+        "hosp_name": "賴登增內科診所",
+        "review_times": 2,
+        "score": 100,
+        "city": "臺南市",
+        "address": "臺南市東區崇信里東門路２段346號1樓",
+        "telephone": "06 2698105",
+        "location": [
+            120.22692082119897,
+            22.98278792343124
+        ],
+        "web": "",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 389,
+        "hosp_name": "陳志鑫診所",
+        "review_times": 3,
+        "score": 100,
+        "city": "臺北市",
+        "address": "臺北市南港區八德路四段８１２號",
+        "telephone": "02 27839698",
+        "location": [
+            121.5814279098356,
+            25.0509194799164
+        ],
+        "web": "",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 390,
+        "hosp_name": "劉永豐診所",
+        "review_times": 3,
+        "score": 100,
+        "city": "高雄市",
+        "address": "高雄市苓雅區建國一路15之1號１、２樓",
+        "telephone": "07 7492636",
+        "location": [
+            120.34052774967125,
+            22.628869982561444
+        ],
+        "web": "",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 383,
+        "hosp_name": "洪瑞聰小兒專科診所",
+        "review_times": 11,
+        "score": 98,
+        "city": "新竹縣",
+        "address": "新竹縣竹北市成功八路100號",
+        "telephone": "03 6676287",
+        "location": [
+            121.01681089078932,
+            24.81817200183688
+        ],
+        "web": "",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 84,
+        "hosp_name": "三軍總醫院北投分院附設民眾診療服務處",
+        "review_times": 2,
+        "score": 90,
+        "city": "臺北市",
+        "address": "臺北市北投區中和街250號",
+        "telephone": "02 28959808",
+        "location": [
+            121.501190914237,
+            25.13973569789784
+        ],
+        "web": "https://beitou.tsgh.ndmctsgh.edu.tw/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%E5%89%8D%E6%97%A5%E8%BB%8D%E8%A1%9B%E6%88%8D%E9%86%AB%E9%99%A2%E5%8C%97%E6%8A%95%E5%88%86%E9%99%A2.JPG/330px-%E5%89%8D%E6%97%A5%E8%BB%8D%E8%A1%9B%E6%88%8D%E9%86%AB%E9%99%A2%E5%8C%97%E6%8A%95%E5%88",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "Pbdragonwang"
+    },
+    {
+        "hosp_id": 18,
+        "hosp_name": "奇美醫療財團法人奇美醫院",
+        "review_times": 9,
+        "score": 88,
+        "city": "臺南市",
+        "address": "臺南市永康區中華路901號",
+        "telephone": "06 2812811",
+        "location": [
+            120.22189695892231,
+            23.020606448430954
+        ],
+        "web": "http://www.chimei.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 65,
+        "hosp_name": "臺灣基督教門諾會醫療財團法人門諾醫院",
+        "review_times": 30,
+        "score": 88,
+        "city": "花蓮縣",
+        "address": "花蓮縣花蓮市民權路４４號",
+        "telephone": "03 8241234",
+        "location": [
+            121.6266258795406,
+            23.988257131380337
+        ],
+        "web": "https://www.mch.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 96,
+        "hosp_name": "醫療財團法人辜公亮基金會和信治癌中心醫院",
+        "review_times": 46,
+        "score": 88,
+        "city": "臺北市",
+        "address": "臺北市北投區立德路１２５號",
+        "telephone": "02 28970011",
+        "location": [
+            121.47201129880499,
+            25.128340548949907
+        ],
+        "web": "http://www.kfsyscc.org/",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:Koo_Foundation_Sun_Yat-Sen_Cancer_Center_20150711.jpg#/media/File:Koo_Foundation_Sun_Yat-Sen_Cancer_Center_20150711.jpg",
+        "photo_authorization": "CC BY-SA 2.0",
+        "photo_author": "翁維德 (Wei-Te Wong)"
+    },
+    {
+        "hosp_id": 3858,
+        "hosp_name": "衛生福利部草屯療養院",
+        "review_times": 5,
+        "score": 84,
+        "city": "南投縣",
+        "address": "南投縣草屯鎮玉屏路１６１號",
+        "telephone": "049 2550800",
+        "location": [
+            120.70453168027441,
+            23.9903953886519
+        ],
+        "web": "https://www.ttpc.mohw.gov.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 7,
+        "hosp_name": "中國醫藥大學附設醫院",
+        "review_times": 333,
+        "score": 83,
+        "city": "臺中市",
+        "address": "臺中市北區育德路二號",
+        "telephone": "04 22052121",
+        "location": [
+            120.68004962513707,
+            24.15721176324101
+        ],
+        "web": "https://www.cmuh.cmu.edu.tw/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cmu004.jpg/1920px-Cmu004.jpg",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "Cmu.tw"
+    },
+    {
+        "hosp_id": 72,
+        "hosp_name": "郭綜合醫院",
+        "review_times": 78,
+        "score": 83,
+        "city": "臺南市",
+        "address": "臺南市中西區民生路二段22號",
+        "telephone": "06 2221111",
+        "location": [
+            120.19850379856048,
+            22.99486235424387
+        ],
+        "web": "http://www.kgh.com.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 68,
+        "hosp_name": "奇美醫療財團法人柳營奇美醫院",
+        "review_times": 29,
+        "score": 82,
+        "city": "臺南市",
+        "address": "臺南市柳營區太康里201號",
+        "telephone": "06 6226999",
+        "location": [
+            120.32470516574593,
+            23.289269240665412
+        ],
+        "web": "http://www.chimei.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 93,
+        "hosp_name": "台灣基督長老教會馬偕醫療財團法人台東馬偕紀念醫院",
+        "review_times": 21,
+        "score": 82,
+        "city": "臺東縣",
+        "address": "臺東縣台東市長沙街３０３巷１號",
+        "telephone": "08 9310150",
+        "location": [
+            121.14060215204807,
+            22.75129280435683
+        ],
+        "web": "http://ttw3.mmh.org.tw/",
+        "photoURL": "https://zh.wikipedia.org/wiki/%E5%8F%B0%E6%9D%B1%E9%A6%AC%E5%81%95%E7%B4%80%E5%BF%B5%E9%86%AB%E9%99%A2#/media/File:Taitung_MacKay_Memorial_Hospital.jpg",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "Eric Deng"
+    },
+    {
+        "hosp_id": 15,
+        "hosp_name": "臺北榮民總醫院",
+        "review_times": 204,
+        "score": 81,
+        "city": "臺北市",
+        "address": "臺北市北投區石牌路二段201號、322號",
+        "telephone": "02 28712121",
+        "location": [
+            121.51916581667986,
+            25.11918226731025
+        ],
+        "web": "https://www.vghtpe.gov.tw/Index.action",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A2Taipei_Veterans_General_Hospital_-_panoramio.jpg#/media/File:%E5%8F%B0%E5%8C%97%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A2Taipei_Veterans_General_Hosp",
+        "photo_authorization": "CC BY 3.0",
+        "photo_author": "Tianmu peter"
+    },
+    {
+        "hosp_id": 16,
+        "hosp_name": "三軍總醫院附設民眾診療服務處",
+        "review_times": 151,
+        "score": 81,
+        "city": "臺北市",
+        "address": "臺北市內湖區成功路二段325號；臺北市中正區汀州路3段40號",
+        "telephone": "02 27642151",
+        "location": [
+            121.59198211386816,
+            25.071800419562727
+        ],
+        "web": "https://www.tsgh.ndmctsgh.edu.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 75,
+        "hosp_name": "台灣基督長老教會新樓醫療財團法人台南新樓醫院",
+        "review_times": 36,
+        "score": 81,
+        "city": "臺南市",
+        "address": "臺南市東區東門路1段57號",
+        "telephone": "06 2748316",
+        "location": [
+            120.21280712119355,
+            22.989157851013136
+        ],
+        "web": "http://www.sinlau.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 66,
+        "hosp_name": "國軍桃園總醫院附設民眾診療服務處",
+        "review_times": 2,
+        "score": 80,
+        "city": "桃園市",
+        "address": "桃園市龍潭區中興路168號",
+        "telephone": "03 4799595",
+        "location": [
+            121.23594662719927,
+            24.877055494295462
+        ],
+        "web": "http://804.mnd.gov.tw/index.php",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 82,
+        "hosp_name": "衛生福利部基隆醫院",
+        "review_times": 4,
+        "score": 80,
+        "city": "基隆市",
+        "address": "基隆市信義區信二路２６８號",
+        "telephone": "02 24292525",
+        "location": [
+            121.74832162011631,
+            25.130455579592116
+        ],
+        "web": "https://www.kln.mohw.gov.tw/",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:ROC-MOHW_Keelung_Hospital_entry_20140215.jpg?uselang=zh-hant#/media/File:ROC-MOHW_Keelung_Hospital_entry_20140215.jpg",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "Solomon203"
+    },
+    {
+        "hosp_id": 385,
+        "hosp_name": "陳世中耳鼻喉科診所",
+        "review_times": 6,
+        "score": 80,
+        "city": "新北市",
+        "address": "新北市新莊區中平路277號1樓",
+        "telephone": "02 89928126",
+        "location": [
+            121.44468751816072,
+            25.05018049550681
+        ],
+        "web": "",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 3860,
+        "hosp_name": "財團法人台灣省私立高雄仁愛之家附設慈惠醫院",
+        "review_times": 6,
+        "score": 80,
+        "city": "高雄市",
+        "address": "高雄市大寮區鳳屏一路509號",
+        "telephone": "07 7030315",
+        "location": [
+            120.39750531631041,
+            22.639236378030514
+        ],
+        "web": "http://www.khja.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 3861,
+        "hosp_name": "衛生福利部桃園療養院",
+        "review_times": 5,
+        "score": 80,
+        "city": "桃園市",
+        "address": "桃園市桃園區龍壽街七一號",
+        "telephone": "03 3698553",
+        "location": [
+            121.26817681307206,
+            24.979271871298675
+        ],
+        "web": "https://www.typc.mohw.gov.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 6,
+        "hosp_name": "彰化基督教醫療財團法人彰化基督教醫院",
+        "review_times": 88,
+        "score": 79,
+        "city": "彰化縣",
+        "address": "彰化縣彰化市旭光路300號",
+        "telephone": "04 7238595",
+        "location": [
+            120.54434215100859,
+            24.07121114107021
+        ],
+        "web": "https://www.cch.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 76,
+        "hosp_name": "中國醫藥大學北港附設醫院",
+        "review_times": 19,
+        "score": 79,
+        "city": "雲林縣",
+        "address": "雲林縣北港鎮新德路１２３號",
+        "telephone": "05 7837901",
+        "location": [
+            120.30782040876906,
+            23.591762686920752
+        ],
+        "web": "http://www.bh.cmu.edu.tw/cmubh/ch/index.php",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cmubh%2CYunlin%2Ctaiwan.jpg/1280px-Cmubh%2CYunlin%2Ctaiwan.jpg",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "Piki0820"
+    },
+    {
+        "hosp_id": 10,
+        "hosp_name": "醫療財團法人徐元智先生醫藥基金會亞東紀念醫院",
+        "review_times": 99,
+        "score": 78,
+        "city": "新北市",
+        "address": "新北市板橋區南雅南路二段21號及高爾富路300號",
+        "telephone": "02 89667000",
+        "location": [
+            121.45231181266938,
+            24.9973133821559
+        ],
+        "web": "https://www.femh.org.tw/mainpage/default.aspx",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 94,
+        "hosp_name": "臺北榮民總醫院桃園分院",
+        "review_times": 33,
+        "score": 78,
+        "city": "桃園市",
+        "address": "桃園市桃園區成功路3段100號",
+        "telephone": "03 3384889",
+        "location": [
+            121.32531494559288,
+            25.003740677012438
+        ],
+        "web": "http://www.tyvh.gov.tw/",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A2_%E6%A1%83%E5%9C%92%E5%88%86%E9%99%A2_-_panoramio.jpg#/media/File:%E5%8F%B0%E5%8C%97%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A2_%E6%A1%83%E5%9C%92%E5%",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "Foxy Who"
+    },
+    {
+        "hosp_id": 391,
+        "hosp_name": "信義邱婦產科診所",
+        "review_times": 7,
+        "score": 77,
+        "city": "臺北市",
+        "address": "臺北市信義區虎林街198號",
+        "telephone": "02 27278275",
+        "location": [
+            121.57688282639656,
+            25.03844073367837
+        ],
+        "web": "",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 3862,
+        "hosp_name": "衛生福利部八里療養院",
+        "review_times": 7,
+        "score": 77,
+        "city": "新北市",
+        "address": "新北市八里區華富山33號",
+        "telephone": "02 26101660",
+        "location": [
+            121.41236786995555,
+            25.14655677220976
+        ],
+        "web": "https://www.bali.mohw.gov.tw/web/index/index.jsp?lang=tw",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 5,
+        "hosp_name": "國立成功大學醫學院附設醫院",
+        "review_times": 11,
+        "score": 76,
+        "city": "臺南市",
+        "address": "臺南市北區勝利路１３８號",
+        "telephone": "06 2353535",
+        "location": [
+            120.21922956120176,
+            23.00221030036462
+        ],
+        "web": "https://www.hosp.ncku.edu.tw/nckm/english/HomeStyle.aspx?Type=11&ContentPage=0",
+        "photoURL": "https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%AD%B8%E9%99%A2%E9%99%84%E8%A8%AD%E9%86%AB%E9%99%A2#/media/File:NCKU_Hospital.JPG",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "koika"
+    },
+    {
+        "hosp_id": 43,
+        "hosp_name": "佛教慈濟醫療財團法人台中慈濟醫院",
+        "review_times": 73,
+        "score": 76,
+        "city": "臺中市",
+        "address": "臺中市潭子區豐興路一段66號",
+        "telephone": "04 36060666",
+        "location": [
+            120.72034360244423,
+            24.193855775901746
+        ],
+        "web": "https://taichung.tzuchi.com.tw/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%E4%BD%9B%E6%95%99%E6%85%88%E6%BF%9F%E7%B6%9C%E5%90%88%E9%86%AB%E9%99%A2%E8%87%BA%E4%B8%AD%E5%88%86%E9%99%A2_20120711.jpg/1920px-%E4%BD%9B%E6%95%99%E6%85%88%E6%BF%9F%E7%B6%9C%E5%90%88%E9%86%AB%E9%9",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "勤岸"
+    },
+    {
+        "hosp_id": 53,
+        "hosp_name": "國泰醫療財團法人汐止國泰綜合醫院",
+        "review_times": 70,
+        "score": 76,
+        "city": "新北市",
+        "address": "新北市汐止區建成路59巷2號",
+        "telephone": "02 26482121",
+        "location": [
+            121.66108443828689,
+            25.072872328172902
+        ],
+        "web": "http://sijhih.cgh.org.tw/",
+        "photoURL": "https://zh.wikipedia.org/wiki/%E5%9C%8B%E6%B3%B0%E9%86%AB%E7%99%82%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA#/media/File:Sijhih_Cathay_General_Hospital_20140527.jpg",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "Solomon203"
+    },
+    {
+        "hosp_id": 64,
+        "hosp_name": "衛生福利部苗栗醫院",
+        "review_times": 15,
+        "score": 76,
+        "city": "苗栗縣",
+        "address": "苗栗縣苗栗市為公路747號",
+        "telephone": "037 261920",
+        "location": [
+            120.84040484213344,
+            24.575655093485057
+        ],
+        "web": "https://www.mil.mohw.gov.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 80,
+        "hosp_name": "佛教慈濟醫療財團法人台北慈濟醫院",
+        "review_times": 127,
+        "score": 75,
+        "city": "新北市",
+        "address": "新北市新店區建國路289號",
+        "telephone": "02 66289779",
+        "location": [
+            121.53580772838909,
+            24.985780804260568
+        ],
+        "web": "http://taipei.tzuchi.com.tw/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Buddhist_Tzu_Chi_General_Hospital%2C_Taipei_Branch_20111023a.jpg/1920px-Buddhist_Tzu_Chi_General_Hospital%2C_Taipei_Branch_20111023a.jpg",
+        "photo_authorization": "CC0",
+        "photo_author": "玄史生"
+    },
+    {
+        "hosp_id": 11,
+        "hosp_name": "高雄榮民總醫院",
+        "review_times": 111,
+        "score": 74,
+        "city": "高雄市",
+        "address": "高雄市左營區大中一路３８６號",
+        "telephone": "07 3422121",
+        "location": [
+            120.32225668910331,
+            22.67769713622953
+        ],
+        "web": "https://www.vghks.gov.tw/",
+        "photoURL": "https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A2#/media/File:%E9%AB%98%E9%9B%84%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A2_%E6%80%A5%E8%A8%BA%E5%A4%A7%E6%A8%93_%E9%96%80%E8%A8%BA%E5%A4%A7%E6%A8%93_20100207.jp",
+        "photo_authorization": "CC BY 3.0",
+        "photo_author": "caich"
+    },
+    {
+        "hosp_id": 12,
+        "hosp_name": "長庚醫療財團法人高雄長庚紀念醫院",
+        "review_times": 125,
+        "score": 74,
+        "city": "高雄市",
+        "address": "高雄市鳥松區大埤路１２３號",
+        "telephone": "07 7317123",
+        "location": [
+            120.3560285285569,
+            22.649846578308374
+        ],
+        "web": "https://www1.cgmh.org.tw/branch/shk/index.htm",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 61,
+        "hosp_name": "國立臺灣大學醫學院附設醫院雲林分院",
+        "review_times": 25,
+        "score": 74,
+        "city": "雲林縣",
+        "address": "雲林縣斗六市雲林路二段579號",
+        "telephone": "05 5323911",
+        "location": [
+            120.52592940004607,
+            23.697661831080598
+        ],
+        "web": "https://www.ylh.gov.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 79,
+        "hosp_name": "臺中榮民總醫院嘉義分院",
+        "review_times": 12,
+        "score": 73,
+        "city": "嘉義市",
+        "address": "嘉義市西區劉厝里世賢路二段６００號",
+        "telephone": "05 2359630",
+        "location": [
+            120.42296999303915,
+            23.467550006294513
+        ],
+        "web": "https://www.vhcy.gov.tw/",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:%E5%98%89%E7%BE%A9%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A220180510.jpg#/media/File:%E5%98%89%E7%BE%A9%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A220180510.jpg",
+        "photo_authorization": "CC0",
+        "photo_author": "Shouji Hasegawa"
+    },
+    {
+        "hosp_id": 86,
+        "hosp_name": "國立臺灣大學醫學院附設醫院新竹分院",
+        "review_times": 72,
+        "score": 73,
+        "city": "新竹市",
+        "address": "新竹市北區金華里經國路一段442巷25號",
+        "telephone": "03 5326151",
+        "location": [
+            120.97992001680126,
+            24.816708278751864
+        ],
+        "web": "https://www.hch.gov.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 97,
+        "hosp_name": "寶建醫療社團法人寶建醫院",
+        "review_times": 6,
+        "score": 73,
+        "city": "屏東縣",
+        "address": "屏東縣屏東市中山路123號",
+        "telephone": "08 7665995",
+        "location": [
+            120.4844260575701,
+            22.681802046676182
+        ],
+        "web": "http://www.paochien.com.tw/",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 393,
+        "hosp_name": "德泰診所",
+        "review_times": 3,
+        "score": 73,
+        "city": "新北市",
+        "address": "新北市中和區泰和街48號1樓及2樓",
+        "telephone": "02 22427700",
+        "location": [
+            121.49897664401752,
+            24.999649778723324
+        ],
+        "web": "",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 87,
+        "hosp_name": "李綜合醫療社團法人大甲李綜合醫院",
+        "review_times": 21,
+        "score": 72,
+        "city": "臺中市",
+        "address": "臺中市大甲區八德街2號",
+        "telephone": "04 26862288",
+        "location": [
+            120.618072900926,
+            24.350783739286793
+        ],
+        "web": "http://www.leehospital.com.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 55,
+        "hosp_name": "秀傳醫療財團法人彰濱秀傳紀念醫院",
+        "review_times": 49,
+        "score": 71,
+        "city": "彰化縣",
+        "address": "彰化縣鹿港鎮鹿工路6號",
+        "telephone": "04 7813888",
+        "location": [
+            120.41112055292609,
+            24.078274400009782
+        ],
+        "web": "https://www.cbshow.org.tw/changbin/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 56,
+        "hosp_name": "台灣基督長老教會新樓醫療財團法人麻豆新樓醫院",
+        "review_times": 16,
+        "score": 71,
+        "city": "臺南市",
+        "address": "臺南市麻豆區埤頭里苓子林20號",
+        "telephone": "06 5702228",
+        "location": [
+            120.23303302590217,
+            23.179874008446845
+        ],
+        "web": "http://www.sinlau.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 2,
+        "hosp_name": "長庚醫療財團法人林口長庚紀念醫院",
+        "review_times": 42,
+        "score": 70,
+        "city": "桃園市",
+        "address": "桃園市龜山區公西里復興街5號、5之7號",
+        "telephone": "03 3281200",
+        "location": [
+            121.36791867803545,
+            25.060298459414014
+        ],
+        "web": "https://www.cgmh.org.tw/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Linkou_Chang_Gung_Memorial_Hospital_20100401.jpg",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "Imccgmh"
+    },
+    {
+        "hosp_id": 13,
+        "hosp_name": "中山醫學大學附設醫院",
+        "review_times": 72,
+        "score": 70,
+        "city": "臺中市",
+        "address": "臺中市南區建國北路一段一一○號",
+        "telephone": "04 24739595",
+        "location": [
+            120.65052106703284,
+            24.12076859978022
+        ],
+        "web": "https://www.csh.org.tw/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/View_of_the_early_building_of_CSMUH.jpg/330px-View_of_the_early_building_of_CSMUH.jpg",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "Dquai"
+    },
+    {
+        "hosp_id": 39,
+        "hosp_name": "高雄市立大同醫院（委託財團法人私立高雄醫學大學附設中和紀念",
+        "review_times": 2,
+        "score": 70,
+        "city": "高雄市",
+        "address": "高雄市前金區中華三路68號",
+        "telephone": "07 3121101",
+        "location": [
+            120.29720542092498,
+            22.62698982508238
+        ],
+        "web": "https://www.kmtth.org.tw/web/KMTTHInterWeb/InterWeb/Home",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 91,
+        "hosp_name": "彰化基督教醫療財團法人雲林基督教醫院",
+        "review_times": 12,
+        "score": 70,
+        "city": "雲林縣",
+        "address": "雲林縣西螺鎮新豐里市場南路375號",
+        "telephone": "05 5871111",
+        "location": [
+            120.4412053957286,
+            23.781219757514247
+        ],
+        "web": "http://web2yl.cch.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 3859,
+        "hosp_name": "高雄市立凱旋醫院",
+        "review_times": 6,
+        "score": 70,
+        "city": "高雄市",
+        "address": "高雄市苓雅區凱旋二路一三Ｏ號",
+        "telephone": "07 7513171",
+        "location": [
+            120.32427224780515,
+            22.625189834205962
+        ],
+        "web": "https://ksph.kcg.gov.tw/",
+        "photoURL": "https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E5%B8%82%E7%AB%8B%E5%87%B1%E6%97%8B%E9%86%AB%E9%99%A2#/media/File:Kaisyuan_Hospital,_Kaohsiung.JPG",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "Luuva"
+    },
+    {
+        "hosp_id": 14,
+        "hosp_name": "台灣基督長老教會馬偕醫療財團法人馬偕紀念醫院",
+        "review_times": 166,
+        "score": 69,
+        "city": "臺北市",
+        "address": "臺北市中山區中山北路二段９２號",
+        "telephone": "02 25433535",
+        "location": [
+            121.52255795864247,
+            25.058884227495128
+        ],
+        "web": "http://www.mmh.org.tw/",
+        "photoURL": "https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%81%95%E7%B4%80%E5%BF%B5%E9%86%AB%E9%99%A2#/media/File:Mackay_Memorial_Hospital_Taipei_20060622.jpg",
+        "photo_authorization": "公有領域",
+        "photo_author": "Smilelee"
+    },
+    {
+        "hosp_id": 51,
+        "hosp_name": "天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院",
+        "review_times": 30,
+        "score": 69,
+        "city": "嘉義市",
+        "address": "嘉義市東區短竹里大雅路二段565號",
+        "telephone": "05 2756000",
+        "location": [
+            120.46709811192605,
+            23.47564401141202
+        ],
+        "web": "http://www.stm.org.tw/",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 3,
+        "hosp_name": "佛教慈濟醫療財團法人花蓮慈濟醫院",
+        "review_times": 82,
+        "score": 68,
+        "city": "花蓮縣",
+        "address": "花蓮縣花蓮市中央路三段７０７號",
+        "telephone": "03 8561825",
+        "location": [
+            121.59228161165284,
+            23.995730229546282
+        ],
+        "web": "http://hlm.tzuchi.com.tw/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hualien_Tzu_Chi_General_Hospital.JPG/330px-Hualien_Tzu_Chi_General_Hospital.JPG",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "Cerevisae"
+    },
+    {
+        "hosp_id": 4,
+        "hosp_name": "財團法人私立高雄醫學大學附設中和紀念醫院",
+        "review_times": 202,
+        "score": 68,
+        "city": "高雄市",
+        "address": "高雄市三民區十全一路100號及新興區中山一路36號",
+        "telephone": "07 3121101",
+        "location": [
+            120.31000123421772,
+            22.645178096319846
+        ],
+        "web": "https://www.kmu.edu.tw/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%E9%AB%98%E9%86%AB%E5%A4%A7%E9%99%84%E8%A8%AD%E4%B8%AD%E5%92%8C%E9%86%AB%E9%99%A2.JPG/330px-%E9%AB%98%E9%86%AB%E5%A4%A7%E9%99%84%E8%A8%AD%E4%B8%AD%E5%92%8C%E9%86%AB%E9%99%A2.JPG",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "龍本"
+    },
+    {
+        "hosp_id": 46,
+        "hosp_name": "戴德森醫療財團法人嘉義基督教醫院",
+        "review_times": 62,
+        "score": 68,
+        "city": "嘉義市",
+        "address": "嘉義市東區忠孝路539號",
+        "telephone": "05 2765041",
+        "location": [
+            120.45004998624528,
+            23.49940000313009
+        ],
+        "web": "http://www.cych.org.tw/cychweb/cych3/default.aspx",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:Baojian_Building,_Ditmanson_Medical_Foundation_Chia-Yi_Christian_Hospital,_Chiayi_City_(Taiwan).jpg?uselang=zh-hant#/media/File:Baojian_Building,_Ditmanson_Medical_Foundation_Chia-Yi_Christian_Hospital,_Chiayi_City_",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "Mk2010"
+    },
+    {
+        "hosp_id": 74,
+        "hosp_name": "天主教耕莘醫療財團法人耕莘醫院",
+        "review_times": 116,
+        "score": 68,
+        "city": "新北市",
+        "address": "新北市新店區中正路362號",
+        "telephone": "02 2193391",
+        "location": [
+            121.5356189250512,
+            24.976083842105776
+        ],
+        "web": "https://www.cth.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 78,
+        "hosp_name": "台南市立醫院(委託秀傳醫療社團法人經營)",
+        "review_times": 70,
+        "score": 68,
+        "city": "臺南市",
+        "address": "臺南市東區崇德路670號",
+        "telephone": "06 2609926",
+        "location": [
+            120.22674346310565,
+            22.968535252878763
+        ],
+        "web": "https://www.tmh.org.tw/TMH2016/",
+        "photoURL": "https://zh.wikipedia.org/wiki/%E8%87%BA%E5%8D%97%E5%B8%82%E7%AB%8B%E9%86%AB%E9%99%A2#/media/File:%E8%87%BA%E5%8D%97%E5%B8%82%E7%AB%8B%E9%86%AB%E9%99%A2%E9%96%80%E8%A8%BA%E5%A4%A7%E6%A8%93_-_panoramio.jpg",
+        "photo_authorization": "CC BY 3.0",
+        "photo_author": "338km"
+    },
+    {
+        "hosp_id": 44,
+        "hosp_name": "高雄市立聯合醫院",
+        "review_times": 56,
+        "score": 67,
+        "city": "高雄市",
+        "address": "高雄市鼓山區中華一路976號",
+        "telephone": "07 5552565",
+        "location": [
+            120.2916977641378,
+            22.65492414653061
+        ],
+        "web": "https://www.kmuh.gov.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 59,
+        "hosp_name": "國軍高雄總醫院左營分院附設民眾診療服務處",
+        "review_times": 44,
+        "score": 67,
+        "city": "高雄市",
+        "address": "高雄市左營區軍校路533號",
+        "telephone": "07 5811648",
+        "location": [
+            120.29223131952651,
+            22.700351651870644
+        ],
+        "web": "https://806.mnd.gov.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 70,
+        "hosp_name": "東元綜合醫院",
+        "review_times": 93,
+        "score": 67,
+        "city": "新竹縣",
+        "address": "新竹縣竹北市縣政二路69號",
+        "telephone": "03 5527000",
+        "location": [
+            121.01292523582293,
+            24.81976912340313
+        ],
+        "web": "https://www.tyh.com.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 83,
+        "hosp_name": "三軍總醫院松山分院附設民眾診療服務處",
+        "review_times": 69,
+        "score": 67,
+        "city": "臺北市",
+        "address": "臺北市松山區健康路１３１號",
+        "telephone": "02 27462151",
+        "location": [
+            121.55770452537868,
+            25.05394014515084
+        ],
+        "web": "https://wwwv.tsgh.ndmctsgh.edu.tw/unit/102371/26110",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%E5%9C%8B%E8%BB%8D%E6%9D%BE%E5%B1%B1%E7%B8%BD%E9%86%AB%E9%99%A2_-_panoramio_-_Tianmu_peter.jpg/330px-%E5%9C%8B%E8%BB%8D%E6%9D%BE%E5%B1%B1%E7%B8%BD%E9%86%AB%E9%99%A2_-_panoramio_-_Tianmu_peter.jpg",
+        "photo_authorization": "CC BY 3.0",
+        "photo_author": "Tianmu peter"
+    },
+    {
+        "hosp_id": 47,
+        "hosp_name": "衛生福利部彰化醫院",
+        "review_times": 18,
+        "score": 66,
+        "city": "彰化縣",
+        "address": "彰化縣埔心鄉中正路二段80號",
+        "telephone": "04 8298686",
+        "location": [
+            120.52729881649921,
+            23.950224553009676
+        ],
+        "web": "https://www.chhw.mohw.gov.tw/welcome",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 62,
+        "hosp_name": "衛生福利部屏東醫院",
+        "review_times": 36,
+        "score": 66,
+        "city": "屏東縣",
+        "address": "屏東縣屏東市自由路270號",
+        "telephone": "08 7363011",
+        "location": [
+            120.49554563325106,
+            22.673263653622996
+        ],
+        "web": "https://www.pntn.mohw.gov.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 63,
+        "hosp_name": "仁愛醫療財團法人大里仁愛醫院",
+        "review_times": 62,
+        "score": 66,
+        "city": "臺中市",
+        "address": "臺中市大里區東榮路483號",
+        "telephone": "04 24819900",
+        "location": [
+            120.68043379964773,
+            24.109261253097294
+        ],
+        "web": "http://www.jah.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 85,
+        "hosp_name": "臺南市立安南醫院－委託中國醫藥大學興建經營",
+        "review_times": 55,
+        "score": 66,
+        "city": "臺南市",
+        "address": "臺南市安南區長和路二段66號",
+        "telephone": "06 3553111",
+        "location": [
+            120.2231915818919,
+            23.064231773199978
+        ],
+        "web": "http://www.tmanh.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 38,
+        "hosp_name": "衛生福利部臺中醫院",
+        "review_times": 86,
+        "score": 65,
+        "city": "臺中市",
+        "address": "臺中市西區廣民里三民路1段199號",
+        "telephone": "04 22294411",
+        "location": [
+            120.67571058955804,
+            24.14022630715237
+        ],
+        "web": "https://www.taic.mohw.gov.tw/",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E4%B8%AD%E9%86%AB%E9%99%A2%E6%AD%A3%E9%96%80_(131203)_-_panoramio.jpg?uselang=zh-hant#/media/File:%E5%8F%B0%E4%B8%AD%E9%86%AB%E9%99%A2%E6%AD%A3%E9%96%80_(131203)_-_panoramio.jpg",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "張氏_桃園市觀旅局助理員"
+    },
+    {
+        "hosp_id": 52,
+        "hosp_name": "台灣基督長老教會馬偕醫療財團法人新竹馬偕紀念醫院",
+        "review_times": 116,
+        "score": 65,
+        "city": "新竹市",
+        "address": "新竹市東區光復里光復路二段690號",
+        "telephone": "03 6119595",
+        "location": [
+            120.99078086013083,
+            24.800088475796557
+        ],
+        "web": "https://www.hc.mmh.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 388,
+        "hosp_name": "張國麟耳鼻喉科診所",
+        "review_times": 14,
+        "score": 65,
+        "city": "臺北市",
+        "address": "臺北市大安區和平東路三段一四七號一樓",
+        "telephone": "02 27338386",
+        "location": [
+            121.55272670490805,
+            25.024798442264252
+        ],
+        "web": "",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 45,
+        "hosp_name": "長庚醫療財團法人嘉義長庚紀念醫院",
+        "review_times": 48,
+        "score": 64,
+        "city": "嘉義縣",
+        "address": "嘉義縣朴子市仁和里長庚一路六號",
+        "telephone": "05 3621000",
+        "location": [
+            120.2840425075447,
+            23.464806217758422
+        ],
+        "web": "https://www1.cgmh.org.tw/branch/jia/index.htm",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%E5%98%89%E7%BE%A9%E9%95%B7%E5%BA%9A%E7%B4%80%E5%BF%B5%E9%86%AB%E9%99%A2_20110220.jpg/1920px-%E5%98%89%E7%BE%A9%E9%95%B7%E5%BA%9A%E7%B4%80%E5%BF%B5%E9%86%AB%E9%99%A2_20110220.jpg",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "Chi-Hung Lin"
+    },
+    {
+        "hosp_id": 8,
+        "hosp_name": "臺中榮民總醫院",
+        "review_times": 85,
+        "score": 62,
+        "city": "臺中市",
+        "address": "臺中市西屯區臺灣大道4段1650號",
+        "telephone": "04 23592525",
+        "location": [
+            120.60464749038017,
+            24.184298567067906
+        ],
+        "web": "https://www.vghtc.gov.tw/",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E4%B8%AD%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A2%E7%AC%AC%E4%B8%80%E9%86%AB%E7%99%82%E5%A4%A7%E6%A8%93.jpg#/media/File:%E8%87%BA%E4%B8%AD%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A2%E7%AC%AC%E4%B8%80",
+        "photo_authorization": "CC BY-SA 3.0",
+        "photo_author": "Fcuk1203"
+    },
+    {
+        "hosp_id": 9,
+        "hosp_name": "國立臺灣大學醫學院附設醫院",
+        "review_times": 125,
+        "score": 62,
+        "city": "臺北市",
+        "address": "臺北市中正區中山南路7號",
+        "telephone": "02 23123456",
+        "location": [
+            121.51855792450971,
+            25.040775734782745
+        ],
+        "web": "https://www.ntuh.gov.tw/ntuh/Index.action",
+        "photoURL": "https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%AD%B8%E9%99%A2%E9%99%84%E8%A8%AD%E9%86%AB%E9%99%A2#/media/File:NTU_Hospital_West_Site_20050618.jpg",
+        "photo_authorization": "公有領域",
+        "photo_author": "Jiang"
+    },
+    {
+        "hosp_id": 95,
+        "hosp_name": "衛生福利部臺南醫院",
+        "review_times": 28,
+        "score": 62,
+        "city": "臺南市",
+        "address": "臺南市中西區中山路125號",
+        "telephone": "06 2200055",
+        "location": [
+            120.20922751867498,
+            22.99581880170435
+        ],
+        "web": "https://www.tnhosp.mohw.gov.tw/",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%8D%97%E9%86%AB%E9%99%A2.jpg?uselang=zh-hant#/media/File:%E8%87%BA%E5%8D%97%E9%86%AB%E9%99%A2.jpg",
+        "photo_authorization": "CC0",
+        "photo_author": "Mx. Granger"
+    },
+    {
+        "hosp_id": 67,
+        "hosp_name": "輔英科技大學附設醫院",
+        "review_times": 25,
+        "score": 61,
+        "city": "屏東縣",
+        "address": "屏東縣東港鎮中山路５號",
+        "telephone": "08 8323146",
+        "location": [
+            120.45273372558574,
+            22.4651994345431
+        ],
+        "web": "http://www.fy.org.tw/",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 36,
+        "hosp_name": "臺北市立聯合醫院",
+        "review_times": 3,
+        "score": 60,
+        "city": "臺北市",
+        "address": "臺北市大同區鄭州路145號",
+        "telephone": "02 25523234",
+        "location": [
+            121.50888735890763,
+            25.050692426772112
+        ],
+        "web": "https://tpech.gov.taipei/mp109141/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 42,
+        "hosp_name": "澄清綜合醫院中港分院",
+        "review_times": 5,
+        "score": 60,
+        "city": "臺中市",
+        "address": "臺中市西屯區臺灣大道4段966號",
+        "telephone": "04 24632000",
+        "location": [
+            120.6170333288977,
+            24.18285318235798
+        ],
+        "web": "http://www.ccgh.com.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 71,
+        "hosp_name": "衛生福利部雙和醫院〈委託臺北醫學大學興建經營〉",
+        "review_times": 7,
+        "score": 57,
+        "city": "新北市",
+        "address": "新北市中和區中正路291號",
+        "telephone": "02 22490088",
+        "location": [
+            121.4940817893594,
+            24.9937457950121
+        ],
+        "web": "https://shh.tmu.edu.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 1,
+        "hosp_name": "國泰醫療財團法人國泰綜合醫院",
+        "review_times": 67,
+        "score": 56,
+        "city": "臺北市",
+        "address": "臺北市大安區仁愛路四段266巷6號，280號",
+        "telephone": "02 27082121",
+        "location": [
+            121.55280142615031,
+            25.037178478867542
+        ],
+        "web": "https://www.cgh.org.tw/",
+        "photoURL": "https://zh.wikipedia.org/wiki/%E5%9C%8B%E6%B3%B0%E9%86%AB%E7%99%82%E8%B2%A1%E5%9C%98%E6%B3%95%E4%BA%BA#/media/File:Cathay_Life_Building_and_CGH_Main_Building_20080531.jpg",
+        "photo_authorization": "CC BY 3.0",
+        "photo_author": "Tianmu peter"
+    },
+    {
+        "hosp_id": 35,
+        "hosp_name": "衛生福利部豐原醫院",
+        "review_times": 50,
+        "score": 56,
+        "city": "臺中市",
+        "address": "臺中市豐原區安康路１００號",
+        "telephone": "04 25271180",
+        "location": [
+            120.72529164614878,
+            24.242707280292027
+        ],
+        "web": "https://www.fyh.mohw.gov.tw/",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:%E8%A1%9B%E7%94%9F%E7%BD%B2%E8%B1%90%E5%8E%9F%E9%86%AB%E9%99%A2.JPG?uselang=zh-hant#/media/File:%E8%A1%9B%E7%94%9F%E7%BD%B2%E8%B1%90%E5%8E%9F%E9%86%AB%E9%99%A2.JPG",
+        "photo_authorization": "公有領域",
+        "photo_author": "中文維基百科的Suzuki1314"
+    },
+    {
+        "hosp_id": 48,
+        "hosp_name": "埔基醫療財團法人埔里基督教醫院",
+        "review_times": 21,
+        "score": 56,
+        "city": "南投縣",
+        "address": "南投縣埔里鎮鐵山路一號",
+        "telephone": "049 2912151",
+        "location": [
+            120.94679900609506,
+            23.970928340467438
+        ],
+        "web": "https://www.pch.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 98,
+        "hosp_name": "國仁醫院",
+        "review_times": 13,
+        "score": 55,
+        "city": "屏東縣",
+        "address": "屏東縣屏東市民生東路12-2號",
+        "telephone": "08 7223000",
+        "location": [
+            120.51355031665322,
+            22.658820724781755
+        ],
+        "web": "http://www.golden-hospital.com.tw/index_pc.php",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 54,
+        "hosp_name": "沙爾德聖保祿修女會醫療財團法人聖保祿醫院",
+        "review_times": 81,
+        "score": 53,
+        "city": "桃園市",
+        "address": "桃園市桃園區建新街123號",
+        "telephone": "03 3613141",
+        "location": [
+            121.31250678009586,
+            24.982115013490663
+        ],
+        "web": "https://www.sph.org.tw/welcome/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%E8%81%96%E4%BF%9D%E7%A5%BF%E4%BF%AE%E5%A5%B3%E6%9C%83%E9%86%AB%E9%99%A2%E7%9A%84%E5%80%AA%E6%96%87%E4%BA%9E%E9%A1%8C%E5%AD%97.jpg/330px-%E8%81%96%E4%BF%9D%E7%A5%BF%E4%BF%AE%E5%A5%B3%E6%9C%83%E9%86",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "寺人孟子"
+    },
+    {
+        "hosp_id": 58,
+        "hosp_name": "光田醫療社團法人光田綜合醫院",
+        "review_times": 38,
+        "score": 53,
+        "city": "臺中市",
+        "address": "臺中市沙鹿區沙田路117號",
+        "telephone": "04 26625111",
+        "location": [
+            120.55885855040651,
+            24.23539360230663
+        ],
+        "web": "http://www.ktgh.com.tw/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kuang_Tien_General_Hospital_%28Taiwan%29.jpg/330px-Kuang_Tien_General_Hospital_%28Taiwan%29.jpg",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "Mk2010"
+    },
+    {
+        "hosp_id": 49,
+        "hosp_name": "林新醫療社團法人林新醫院",
+        "review_times": 122,
+        "score": 52,
+        "city": "臺中市",
+        "address": "臺中市南屯區惠中路3段36號",
+        "telephone": "04 22586688",
+        "location": [
+            120.64020135092844,
+            24.14903676972996
+        ],
+        "web": "http://www.lshosp.com.tw/",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lin_Shin_Hospital_20180825.jpg/330px-Lin_Shin_Hospital_20180825.jpg",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "Solomon203"
+    },
+    {
+        "hosp_id": 60,
+        "hosp_name": "聯新國際醫院",
+        "review_times": 136,
+        "score": 52,
+        "city": "桃園市",
+        "address": "桃園市平鎮區廣泰路77號",
+        "telephone": "03 4941234",
+        "location": [
+            121.20495966130918,
+            24.94611961322843
+        ],
+        "web": "http://www.landseedhospital.com.tw/lishin/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 273,
+        "hosp_name": "天成醫院",
+        "review_times": 91,
+        "score": 52,
+        "city": "桃園市",
+        "address": "桃園市楊梅區中山北路一段三五六號",
+        "telephone": "03 4782350",
+        "location": [
+            121.15711954210683,
+            24.908843571194698
+        ],
+        "web": "http://www.tcmg.com.tw/ym/home.php",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 50,
+        "hosp_name": "衛生福利部臺北醫院",
+        "review_times": 90,
+        "score": 50,
+        "city": "新北市",
+        "address": "新北市新莊區思源路127號",
+        "telephone": "02 2765566",
+        "location": [
+            121.45962260013225,
+            25.043241148179984
+        ],
+        "web": "https://www.tph.mohw.gov.tw/",
+        "photoURL": "https://commons.wikimedia.org/wiki/File:Taipei_Hospital,_MOHW.jpg?uselang=zh-hant#/media/File:Taipei_Hospital,_MOHW.jpg",
+        "photo_authorization": "CC BY-SA 4.0",
+        "photo_author": "Foxy1219"
+    },
+    {
+        "hosp_id": 88,
+        "hosp_name": "新北市立聯合醫院",
+        "review_times": 54,
+        "score": 49,
+        "city": "新北市",
+        "address": "新北市三重區新北大道1段3號",
+        "telephone": "02 29829111",
+        "location": [
+            121.49084025567778,
+            25.06086947004573
+        ],
+        "web": "https://www.ntch.ntpc.gov.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 397,
+        "hosp_name": "大忠耳鼻喉科診所",
+        "review_times": 3,
+        "score": 46,
+        "city": "新北市",
+        "address": "新北市淡水區大忠街一一三巷三十一號一樓",
+        "telephone": "02 26205188",
+        "location": [
+            121.44768450669028,
+            25.177558544045706
+        ],
+        "web": "",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 387,
+        "hosp_name": "台安耳鼻喉科診所",
+        "review_times": 4,
+        "score": 45,
+        "city": "新竹市",
+        "address": "新竹市北區北大路466號",
+        "telephone": "03 5246069",
+        "location": [
+            120.96003287064967,
+            24.801760389736693
+        ],
+        "web": "",
+        "photoURL": "",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 20,
+        "hosp_name": "臺北市立萬芳醫院－委託財團法人臺北醫學大學辦理",
+        "review_times": 13,
+        "score": 43,
+        "city": "臺北市",
+        "address": "臺北市文山區興隆路三段111號",
+        "telephone": "02 29307930",
+        "location": [
+            121.55833027503552,
+            25.00030627606293
+        ],
+        "web": "https://www.wanfang.gov.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 376,
+        "hosp_name": "太平澄清醫院",
+        "review_times": 1,
+        "score": 20,
+        "city": "臺中市",
+        "address": "臺中市太平區中興路100號",
+        "telephone": "04 22789900",
+        "location": [
+            120.71540347276868,
+            24.127276594944753
+        ],
+        "web": "http://www.ntpcch.com.tw/zh-tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 37,
+        "hosp_name": "醫療財團法人羅許基金會羅東博愛醫院",
+        "review_times": 0,
+        "score": 0,
+        "city": "宜蘭縣",
+        "address": "宜蘭縣羅東鎮南昌街83號",
+        "telephone": "03 9543131",
+        "location": [
+            121.77140736832268,
+            24.67178437976879
+        ],
+        "web": "https://www.pohai.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    },
+    {
+        "hosp_id": 69,
+        "hosp_name": "義大醫療財團法人義大醫院",
+        "review_times": 0,
+        "score": 0,
+        "city": "高雄市",
+        "address": "高雄市燕巢區角宿里義大路1號",
+        "telephone": "07 6150011",
+        "location": [
+            120.36445054520286,
+            22.76552106526553
+        ],
+        "web": "https://www.edah.org.tw/",
+        "photoURL": "n",
+        "photo_authorization": "",
+        "photo_author": ""
+    }
+]

@@ -1,0 +1,21 @@
+/* .select{
+    height: 35px;
+    width: 250px;
+    border: 1px solid #000;
+} */
+.select:hover{
+    cursor: pointer;
+}
+.optionGroup{
+    display: none;
+}
+.option{
+    /* width: 250px; */
+    list-style: none;
+    display: none;
+    cursor: pointer;
+}
+.option:hover{
+    color: #fff;
+    background-color: #00D1B2;
+}

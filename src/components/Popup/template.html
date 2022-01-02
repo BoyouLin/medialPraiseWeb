@@ -1,0 +1,21 @@
+<div class="popup">
+    <transition name="fade" apper>
+        <div
+            class="dialog-overlay"
+            v-if="showDialog"
+            @click="cancel">
+        </div>
+    </transition>
+    <transition name="slide" apper>
+        <div
+            class="dialog"
+            v-if="showDialog">
+            <slot></slot>
+            <div class="btn-group">
+                <!-- <button type="submit" @click.prevent="confirm" class="confirm"><h6 v-text="confirmTxt"></h6></button> -->
+                <button class="cancel"  @click="cancel"></button>
+            </div>
+        </div>
+    </transition>
+
+</div>

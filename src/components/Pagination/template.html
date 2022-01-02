@@ -1,0 +1,56 @@
+<div class="pagination">
+    <div
+        class="content__box"
+        v-for="item in initItems.slice( pageStart, pageStart + initCountOfPage )"
+        :key="item.index"
+        @click="getHospital(item)"
+    >
+        <div class="info__top"><img
+                src="@/assets/Rectangle 52.svg"
+                alt=""
+            ></div>
+        <div class="info__content">
+            <img :src="item.photoURL" />
+            <div class="info__text">
+                <h2>{{ item.hosp_name }}</h2>
+                <h3>地址</h3>
+                <h4>{{ item.address}}</h4>
+            </div>
+            <div class="info__detail">
+                <a
+                    :href="item.web"
+                    target="_blank"
+                >詳細資訊</a>
+            </div>
+            <div class="info__score">
+                <div class="rate__number">
+                    {{item.score[0]}}
+                </div>
+                <doughnut-chart
+                    class="doughnut-chart"
+                    :data="item.score"
+                    :name="item.score[0]"
+                />
+            </div>
+        </div>
+    </div>
+    <ul class="controller">
+        <li
+            class="leftBtn"
+            @click="prev"
+        ><img
+                src="@/assets/leftButton.png"
+                alt=""
+            ></li>
+        <i class="Cpage">{{ initCurrentPage }}</i>
+        <i class="Symbol">/</i>
+        <i class="Tpage">{{ totalPages }}</i>
+        <li
+            class="rightBtn"
+            @click="next"
+        ><img
+                src="@/assets/rightButton.png"
+                alt=""
+            ></li>
+    </ul>
+</div>

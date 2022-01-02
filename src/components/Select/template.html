@@ -1,0 +1,15 @@
+<div>
+    <input 
+        class="select"
+        type="button" 
+        :value="selectedValue" 
+        @click='optionShow' 
+        >
+        <!-- :placeholder="placeholder" -->
+        <h6 class="selectTxt" v-text="placeholder"></h6>
+    </input>
+    <slot></slot>
+    <ul class="optionGroup">
+        <li class="option" v-for="item in optionList" @click="selectedOption(item)">{{ item }}</li>
+    </ul>
+</div>

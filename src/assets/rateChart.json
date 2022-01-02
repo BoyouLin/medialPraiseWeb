@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "https://freefoodphotos.com/imagelibrary/snacks/slides/crisps.jpg",
+        "name": "天主教輔仁大學附設醫院1",
+        "address": "243新北市泰山區貴子路69號",
+        "url": "",
+        "rate": 15
+    },
+    {
+        "id": 2,
+        "img": "https://freefoodphotos.com/imagelibrary/snacks/slides/crisps.jpg",
+        "name": "天主教輔仁大學附設醫院2",
+        "address": "243新北市泰山區貴子路69號德國慕尼黑科技大學醫學研",
+        "url": "",
+        "rate": 80
+    },
+    {
+        "id": 3,
+        "img": "https://freefoodphotos.com/imagelibrary/snacks/slides/crisps.jpg",
+        "name": "天主教輔仁大學附設醫院3",
+        "address": "243新北市泰山區貴子路69號",
+        "url": "",
+        "rate": 70
+    },
+    {
+        "id": 4,
+        "img": "https://freefoodphotos.com/imagelibrary/snacks/slides/crisps.jpg",
+        "name": "天主教輔仁大學附設醫院4",
+        "address": "243新北市泰山區貴子路69號",
+        "url": "",
+        "rate": 40
+    },
+    {
+        "id": 5,
+        "img": "https://freefoodphotos.com/imagelibrary/snacks/slides/crisps.jpg",
+        "name": "天主教輔仁大學附設醫院5",
+        "address": "243新北市泰山區貴子路69號",
+        "url": "",
+        "rate":100
+    },
+    {
+        "id": 6,
+        "img": "https://freefoodphotos.com/imagelibrary/snacks/slides/crisps.jpg",
+        "name": "天主教輔仁大學附設醫院6",
+        "address": "243新北市泰山區貴子路69號",
+        "url": "",
+        "rate": 20
+    },
+    {
+        "id": 7,
+        "img": "https://freefoodphotos.com/imagelibrary/snacks/slides/crisps.jpg",
+        "name": "天主教輔仁大學附設醫院7",
+        "address": "243新北市泰山區貴子路69號",
+        "url": "",
+        "rate":60
+    },
+    {
+        "id": 8,
+        "img": "https://freefoodphotos.com/imagelibrary/snacks/slides/crisps.jpg",
+        "name": "天主教輔仁大學附設醫院8",
+        "address": "243新北市泰山區貴子路69號",
+        "url": "",
+        "rate": 90
+    },
+    {
+        "id": 9,
+        "img": "https://freefoodphotos.com/imagelibrary/snacks/slides/crisps.jpg",
+        "name": "天主教輔仁大學附設醫院9",
+        "address": "243新北市泰山區貴子路69號",
+        "url": "",
+        "rate":80
+    }
+]

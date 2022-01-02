@@ -1,0 +1,1154 @@
+[
+    {
+        "hosp_id": 1,
+        "doctor": [
+            {
+                "doctor_name": "戴鋒泉",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "蔡亞倫",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "張坤權",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "王彥傑",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "李淑慧",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "黃奭毓",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "林世昌",
+                "doctor_score": 4
+            }
+        ]
+    },
+    {
+        "hosp_id": 3,
+        "doctor": [
+            {
+                "doctor_name": "吳國揚",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "吳正欽",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 4,
+        "doctor": [
+            {
+                "doctor_name": "吳怡萱",
+                "doctor_score": 3
+            },
+            {
+                "doctor_name": "劉妙真",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 6,
+        "doctor": [
+            {
+                "doctor_name": "黃士銘",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "吳孟興",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "蘇維仁",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "郭依婷",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "翁孟玉",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 7,
+        "doctor": [
+            {
+                "doctor_name": "陳欽德",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "王廷明",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "林德隆",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "廖怡華",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "高嘉宏",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 8,
+        "doctor": [
+            {
+                "doctor_name": "周德陽",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "戴志展",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳文祿",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳志昇",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "張坤正",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "蔡俊灝",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 9,
+        "doctor": [
+            {
+                "doctor_name": "蕭庭豐",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "邱亞琳",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "徐愷翔",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 10,
+        "doctor": [
+            {
+                "doctor_name": "邱益煊",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "張維寧",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "黃富鼎",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "張家源",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "葉致文",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳逸軒",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳瑛瑛",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "施景森",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "江允志",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "吳介任",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "蔡宗馴",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "王瑞和",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "余明生",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "呂聆音",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 11,
+        "doctor": [
+            {
+                "doctor_name": "陳肇隆",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "李韋鋒",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "方博炯",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "王琳毅",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳靖博",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "李建和",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳建仁",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 12,
+        "doctor": [
+            {
+                "doctor_name": "羅少喬",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "沈炯祺",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "呂俊德",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "賴志昇",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "黃世哲",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "張瑞民",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "陳信華",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳得源",
+                "doctor_score": 4
+            }
+        ]
+    },
+    {
+        "hosp_id": 13,
+        "doctor": [
+            {
+                "doctor_name": "陳進典",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "曾志仁",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "李慈心",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 14,
+        "doctor": [
+            {
+                "doctor_name": "李宏昌",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "紀鑫",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "黃建霈",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "周兆亮",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳天令",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 15,
+        "doctor": [
+            {
+                "doctor_name": "葉長青",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳正豐",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳豐正",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "王緯歆",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "吳博貴",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "劉瑞玲",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "藍敏瑛",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 16,
+        "doctor": [
+            {
+                "doctor_name": "張浩銘",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "黃星華",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "沈賢宗",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "趙國華",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "簡克鴻",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳元武",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "蘇聖強",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "呂瑩純",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "蘇河仰",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 35,
+        "doctor": [
+            {
+                "doctor_name": "郭嘉政",
+                "doctor_score": 1
+            }
+        ]
+    },
+    {
+        "hosp_id": 38,
+        "doctor": [
+            {
+                "doctor_name": "翁茂中",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "黃元德",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "羅嘉元",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "楊文達",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "周鈴泰",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 43,
+        "doctor": [
+            {
+                "doctor_name": "余政展",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳智賢",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "黃伯仁",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "孫傳鴻",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "陳家鴻",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "林忠義",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "廖光福",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 45,
+        "doctor": [
+            {
+                "doctor_name": "林峻賢",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "郭千能",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "楊佩蓉",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 46,
+        "doctor": [
+            {
+                "doctor_name": "林蔚庭",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 47,
+        "doctor": [
+            {
+                "doctor_name": "陳詩典",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 48,
+        "doctor": [
+            {
+                "doctor_name": "黃智健",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 49,
+        "doctor": [
+            {
+                "doctor_name": "何師竹",
+                "doctor_score": 3
+            },
+            {
+                "doctor_name": "簡雅莉",
+                "doctor_score": 1
+            },
+            {
+                "doctor_name": "林彥志",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "黃敦衍",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 50,
+        "doctor": [
+            {
+                "doctor_name": "歐亮宏",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "廖俊智",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "李品賢",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "林三齊",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 51,
+        "doctor": [
+            {
+                "doctor_name": "李芳輝",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "戴孟平",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 52,
+        "doctor": [
+            {
+                "doctor_name": "王卜璀",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "王萱",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "李思佳",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "連啟宏",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳柏年",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "吳元禎",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "蘇冠瑋",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "劉銘恩",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "陳重助",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "呂宜霖",
+                "doctor_score": 4
+            }
+        ]
+    },
+    {
+        "hosp_id": 53,
+        "doctor": [
+            {
+                "doctor_name": "許斯凱",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "張維倫",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 54,
+        "doctor": [
+            {
+                "doctor_name": "黃文宣",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "楊誠嘉",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "李勝惠",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "張伸光",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "林哲安",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "王亭雅",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "戴維琛",
+                "doctor_score": 4
+            }
+        ]
+    },
+    {
+        "hosp_id": 55,
+        "doctor": [
+            {
+                "doctor_name": "王森田",
+                "doctor_score": 1
+            }
+        ]
+    },
+    {
+        "hosp_id": 56,
+        "doctor": [
+            {
+                "doctor_name": "葉雨青",
+                "doctor_score": 1
+            }
+        ]
+    },
+    {
+        "hosp_id": 58,
+        "doctor": [
+            {
+                "doctor_name": "吳中興",
+                "doctor_score": 1
+            },
+            {
+                "doctor_name": "江國樑",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳子勇",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "賴仁淙",
+                "doctor_score": 3
+            },
+            {
+                "doctor_name": "楊淑如",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 60,
+        "doctor": [
+            {
+                "doctor_name": "黃紹亮",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "許嘉麟",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "林芸合",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "張舜閔",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 61,
+        "doctor": [
+            {
+                "doctor_name": "李基裕",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 62,
+        "doctor": [
+            {
+                "doctor_name": "張瑞朝",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "郭政諭",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 63,
+        "doctor": [
+            {
+                "doctor_name": "林裕強",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "程建勝",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳盈佑",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "張之光",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "林賢平",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 64,
+        "doctor": [
+            {
+                "doctor_name": "林哲民",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 68,
+        "doctor": [
+            {
+                "doctor_name": "賴郁凱",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "黃恒慶",
+                "doctor_score": 4
+            }
+        ]
+    },
+    {
+        "hosp_id": 70,
+        "doctor": [
+            {
+                "doctor_name": "楊迪山",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "劉兆漢",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "袁家輝",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "張亮霖",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "連銘銅",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳怡君",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "鄭有森",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "戴順慶",
+                "doctor_score": 1
+            }
+        ]
+    },
+    {
+        "hosp_id": 72,
+        "doctor": [
+            {
+                "doctor_name": "王莉惠",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "林愛惜",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "關龍錦",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "吳國禎",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳柏宏",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "林志展",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "徐漢仲",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "邱信輝",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "郭宗正",
+                "doctor_score": 3
+            },
+            {
+                "doctor_name": "黃太謙",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 74,
+        "doctor": [
+            {
+                "doctor_name": "張正坤",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳梓泓",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "葉海健",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳鑑江",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "應思漢",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "江維鏞",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "楊東和",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 75,
+        "doctor": [
+            {
+                "doctor_name": "宋川田",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 78,
+        "doctor": [
+            {
+                "doctor_name": "王琳煜",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "王鐙慶",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 79,
+        "doctor": [
+            {
+                "doctor_name": "蔡孟洋",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 80,
+        "doctor": [
+            {
+                "doctor_name": "李裕祥",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "李坤璋",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 83,
+        "doctor": [
+            {
+                "doctor_name": "劉忠倫",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "王聖強",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "簡嘉良",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 84,
+        "doctor": [
+            {
+                "doctor_name": "杜睿清",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 85,
+        "doctor": [
+            {
+                "doctor_name": "方彥博",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "許峻誠",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "賴建銘",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "吳奕霆",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "施長碧",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "梁永昌",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 86,
+        "doctor": [
+            {
+                "doctor_name": "陳博彥",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "洪旭逸",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "陳欣琳",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "葉大偉",
+                "doctor_score": 3
+            },
+            {
+                "doctor_name": "羅偉誠",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "杜雄",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "柯煥章",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 87,
+        "doctor": [
+            {
+                "doctor_name": "張文榮",
+                "doctor_score": 4
+            },
+            {
+                "doctor_name": "王芳英",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "李偉裕",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "張峻誠",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 88,
+        "doctor": [
+            {
+                "doctor_name": "塗昭江",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "鄭重",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 91,
+        "doctor": [
+            {
+                "doctor_name": "曾國恩",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "葉世彬",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 94,
+        "doctor": [
+            {
+                "doctor_name": "趙勻廷",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 95,
+        "doctor": [
+            {
+                "doctor_name": "鄧佳明",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 96,
+        "doctor": [
+            {
+                "doctor_name": "洪啟峰",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "朱俊和",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 273,
+        "doctor": [
+            {
+                "doctor_name": "楊崇光",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "朱世偉",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 383,
+        "doctor": [
+            {
+                "doctor_name": "林立晴",
+                "doctor_score": 5
+            }
+        ]
+    },
+    {
+        "hosp_id": 3862,
+        "doctor": [
+            {
+                "doctor_name": "林勉璋",
+                "doctor_score": 5
+            },
+            {
+                "doctor_name": "黃惠群",
+                "doctor_score": 5
+            }
+        ]
+    }
+]
