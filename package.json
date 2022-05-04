@@ -1,0 +1,31 @@
+{
+  "name": "miia-node",
+  "version": "1.0.0",
+  "description": "醫療好評網",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "MIIA"
+  ],
+  "author": "MIIAWebTeams",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": ">=16.9.1"
+  }
+}
+
